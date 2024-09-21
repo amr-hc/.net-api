@@ -2,15 +2,15 @@
 
 namespace api.Repository
 {
-    public interface IProductRepository
+    public interface ICategoryRepository
     {
-        public void Add(Product obj);
-        public void Update(Product obj);
+        public void Add(Category obj);
+        public void Update(Category obj);
         public void Delete(int id);
 
-        public List<Product> GetAll();
+        public List<Category> GetAll();
 
-        public Product Getbyid(int id);
+        public Category Getbyid(int id);
         public void Save();
     }
 }

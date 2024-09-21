@@ -20,7 +20,18 @@ namespace api
             }   
             );
 
+            builder.Services.AddCors(
+                options =>
+                {
+                    options.AddPolicy("mypolicy", policy =>
+                    {
+                        policy.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader();
+                    });
+                }
+                );
+
             builder.Services.AddScoped<IProductRepository,ProductRepository>();
+            builder.Services.AddScoped<ICategoryRepository,CategoryRepository>();
 
             builder.Services.AddControllers();
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
@@ -35,6 +46,8 @@ namespace api
                 app.UseSwagger();
                 app.UseSwaggerUI();
             }
+
+            app.UseCors("mypolicy");
 
             app.UseAuthorization();
 

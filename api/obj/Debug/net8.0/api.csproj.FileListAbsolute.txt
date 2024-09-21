@@ -134,3 +134,4 @@ C:\Users\amro7\Desktop\training Csharp\dotnet\api\api\obj\Debug\net8.0\refint\ap
 C:\Users\amro7\Desktop\training Csharp\dotnet\api\api\obj\Debug\net8.0\api.pdb
 C:\Users\amro7\Desktop\training Csharp\dotnet\api\api\obj\Debug\net8.0\api.genruntimeconfig.cache
 C:\Users\amro7\Desktop\training Csharp\dotnet\api\api\obj\Debug\net8.0\ref\api.dll
+C:\Users\amro7\Desktop\training Csharp\dotnet\api\api\obj\Debug\net8.0\api.sourcelink.json
