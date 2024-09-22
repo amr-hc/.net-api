@@ -135,3 +135,10 @@ C:\Users\amro7\Desktop\training Csharp\dotnet\api\api\obj\Debug\net8.0\api.pdb
 C:\Users\amro7\Desktop\training Csharp\dotnet\api\api\obj\Debug\net8.0\api.genruntimeconfig.cache
 C:\Users\amro7\Desktop\training Csharp\dotnet\api\api\obj\Debug\net8.0\ref\api.dll
 C:\Users\amro7\Desktop\training Csharp\dotnet\api\api\obj\Debug\net8.0\api.sourcelink.json
+C:\Users\amro7\Desktop\training Csharp\dotnet\api\api\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\amro7\Desktop\training Csharp\dotnet\api\api\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\amro7\Desktop\training Csharp\dotnet\api\api\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\amro7\Desktop\training Csharp\dotnet\api\api\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\amro7\Desktop\training Csharp\dotnet\api\api\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\amro7\Desktop\training Csharp\dotnet\api\api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\amro7\Desktop\training Csharp\dotnet\api\api\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
